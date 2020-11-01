@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uSpsoaNkFJSsgct2lWmA+YdRBP4/Qs2RB7L2KtqIa99h+lcJ/2lAF4GQPdrSOfLiI4UzX3OLYikDh66rqLqCiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Data Types and Variables - Lab\\05. Special Numbers\\05. Special Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLQc234GxC08WbkVXszjSrtjlQhULlIehVHwxJ0vXoetUbC9jGcOO1/S5lGBXts79W14clG4vhJxKFHc8yzpVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Lists Lab\\02. Gauss' Trick\\02. Gauss' Trick.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

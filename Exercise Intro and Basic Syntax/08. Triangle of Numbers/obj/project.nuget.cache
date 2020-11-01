@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oHd7rLVqKTKNoSkq1Sw45i76iaR5h8QUsULDoHk3xggi5+4nVXCkK6QbDibB7LsOPbxiCsCDHv4ANxRFYSp5UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercise Intro and Basic Syntax\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

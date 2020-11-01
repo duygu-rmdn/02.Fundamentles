@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+C:\Users\HP\source\repos\Exercise Intro and Basic Syntax\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

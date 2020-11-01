@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wm4qvY/ItLLjkdfwwCE/lQtBa5MRQIolBlAGbcmKnk+XtqRNF7TQT8+r1CxfZod+8wxDdtnbiJuiGhugcQCY3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ExamPreparation\\02. Fancy Barcodes\\12. Fancy Barcodes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

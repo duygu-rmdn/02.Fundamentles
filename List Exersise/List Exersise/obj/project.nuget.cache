@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gzUTIeXYJDp/050TtnUWmi+ZspalF64sKHs02EfmlCzgoEc0YxZ1Tc2/sDdy6wM815CNRec2YhKXI4HSkemmEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\List Exersise\\List Exersise\\List Exersise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

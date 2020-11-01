@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s5bL316LB5MaX20GUa0gPeZyjRhRGRAtB38ONWCy2aW0BLo/j0UN3Z91yONbNvz9yIR88aUNXBDv3TpmGpogQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Data Types and Variables - Exercise\\03. Elevator\\03. Elevator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HxYeLtY7a5/y6UGWvU7kWn7/SfC4cOjMoo1AuTdIix4Xf3nkjUj5tMTBKHxtpEroPeDKcRgNFARzzJutnPWXPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ASSOCIATIVE ARRAYS-Demo\\05. Word Filter\\05. Word Filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tyOdlJIEILHPYwjcT+VQxb5RaYK4DPRrp+hvDSplwebdynJMSQF6xOs+sjXc1s5sVH+ufQ8PSkp8fRNfrPsJbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Programming Fundamentals Mid Exam Retake - 12 August 2020\\01. Computer Store\\01. Computer Store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

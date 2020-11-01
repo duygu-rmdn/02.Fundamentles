@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvT0bfe7zCyh5R7XRhD9mzV7CeEBTaxN0735uTyG/nBE0/UNYWJyKXNAcmiGByDcBq+/xrLwrg9lOe6+oInA8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ASSOCIATIVE ARRAYS-Demo\\ASSOCIATIVE ARRAYS\\ASSOCIATIVE ARRAYS-Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

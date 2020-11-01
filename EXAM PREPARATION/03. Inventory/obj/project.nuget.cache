@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIValjGly3KrZ7VMOtgQmP18G+Al5JQy4joeXohWU4F7Wnclnrs7z10+8RI7ARf89Sk5397a7bsuVPU81t8zuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXAM PREPARATION\\03. Inventory\\03. Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

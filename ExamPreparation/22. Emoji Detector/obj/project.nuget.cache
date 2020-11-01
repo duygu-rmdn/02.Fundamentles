@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rQmaJyTv2VWRe/VdfQ2UXTnhqYN6CIs+Ibj9hhNcTzPvH2NCixNriVdehW23TjsPBpHWQa34GLDjiZ4MOK5FfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ExamPreparation\\22. Emoji Detector\\22. Emoji Detector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

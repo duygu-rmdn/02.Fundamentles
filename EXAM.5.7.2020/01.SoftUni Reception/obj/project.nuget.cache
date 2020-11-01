@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hf2DAHckW/D1zwV/LmsMyTlDXxXSlr/rJ4+bzsstEFM+KLRE1P7xjRhuJspQKg//rloc0WTwkghuE8svGe/hOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXAM.5.7.2020\\01.SoftUni Reception\\01.SoftUni Reception.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

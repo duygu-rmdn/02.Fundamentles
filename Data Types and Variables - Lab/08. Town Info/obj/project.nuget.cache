@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxYM1dDHeBnH6dqGoqT0NNgYLnOslabWkoVV5OnrSEIEy2yK1bQ/Okj4pC4itKO2q4Q+PnQZ5i0r9iOwYFQ4gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Data Types and Variables - Lab\\08. Town Info\\08. Town Info.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

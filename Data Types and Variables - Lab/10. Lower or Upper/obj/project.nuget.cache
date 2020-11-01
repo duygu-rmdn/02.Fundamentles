@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nS5vedP/mif2g0hfqNU2C8xHpgJLuYRkMeApC4FeK9qE3sAVsV3cWYNJrv3lc0rCZJ6T3c2LIc1XbVuTrdzLNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Data Types and Variables - Lab\\10. Lower or Upper\\10. Lower or Upper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

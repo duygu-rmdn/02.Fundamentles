@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.exe
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.deps.json
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.runtimeconfig.json
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.dll
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\bin\Debug\netcoreapp3.1\ArraysDemo.pdb
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.dll
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.pdb
+C:\Users\HP\source\repos\Arrays - Lab\ArraysDemo\obj\Debug\netcoreapp3.1\ArraysDemo.genruntimeconfig.cache

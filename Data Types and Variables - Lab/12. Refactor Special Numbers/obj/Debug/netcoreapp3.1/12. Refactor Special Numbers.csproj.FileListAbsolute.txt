@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.exe
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.deps.json
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.json
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\bin\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.AssemblyInfo.cs
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.dll
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.pdb
+C:\Users\HP\source\repos\Data Types and Variables - Lab\12. Refactor Special Numbers\obj\Debug\netcoreapp3.1\12. Refactor Special Numbers.genruntimeconfig.cache

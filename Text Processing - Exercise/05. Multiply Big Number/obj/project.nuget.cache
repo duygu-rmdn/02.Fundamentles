@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wkz+lEFKZ6urbmqyxxf1cOS3l4c+44nh18wyf2zyX8qUkNytVZSSqsGF1x7deoXk+9FGXXM/nOxOqk40kT099Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Text Processing - Exercise\\05. Multiply Big Number\\05. Multiply Big Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

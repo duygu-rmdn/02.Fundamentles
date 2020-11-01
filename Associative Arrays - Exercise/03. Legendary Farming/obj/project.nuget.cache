@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OwCghzO8s0hqyV0VSROZ9GOsLxzALN/HEDjk8RnL8aoISkU8V1btDa9Mf8OuLgQMtKqI3UI4jMgCmmfdCBvAEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Associative Arrays - Exercise\\03. Legendary Farming\\03. Legendary Farming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

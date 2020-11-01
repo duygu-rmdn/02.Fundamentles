@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0dQwv1wv3IhZ9lKnVwnNa1QM35uDDWjMc5XmtuTholXYeM6gR4zvLJyj5ehH8bCg5CvqUX+t8fgLyEG+wIZ3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ASSOCIATIVE ARRAYS-Demo\\01. Count Real Numbers\\01. Count Real Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

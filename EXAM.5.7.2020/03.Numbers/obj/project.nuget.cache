@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J3twQkD1Z/ppJ/q5/qONCtKI1385PbM2r1SeQUH4hr5NRhM3p4ngOSuvZZn0m6VSFbnClAdmLreY8kjTDvcl5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXAM.5.7.2020\\03.Numbers\\03.Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

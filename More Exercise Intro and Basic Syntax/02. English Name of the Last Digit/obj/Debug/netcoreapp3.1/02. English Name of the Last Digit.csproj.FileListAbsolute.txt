@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.exe
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.deps.json
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.runtimeconfig.json
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.runtimeconfig.dev.json
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.dll
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.pdb
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.AssemblyInfo.cs
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.dll
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.pdb
+C:\Users\HP\source\repos\More Exercise Intro and Basic Syntax\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.genruntimeconfig.cache

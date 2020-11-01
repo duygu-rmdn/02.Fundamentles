@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsuURcszB9/BdJV+rk7JVyoEsDPI8mjGEJ/5NMVV6BZAK98aqTE6kGyaav1rE9Mg3wT7+vhrZCkE2NWKiHNJZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Regular Expressions - Exercise\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

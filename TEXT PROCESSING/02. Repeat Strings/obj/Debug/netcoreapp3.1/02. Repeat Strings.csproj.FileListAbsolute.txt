@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.exe
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.deps.json
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.json
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.runtimeconfig.dev.json
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\bin\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.AssemblyInfo.cs
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.dll
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.pdb
+C:\Users\HP\source\repos\TEXT PROCESSING\02. Repeat Strings\obj\Debug\netcoreapp3.1\02. Repeat Strings.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sS3MT4ifuYIrPriPH6LBfoQ7y9/mTTPXtY91aGIzQSOiE5uyS1uO/VfYZVQKWUUcAehmsCiFe2pUtGsSIupYew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\ExamPreparation\\03. Need for Speed III\\03. Need for Speed III.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPiaUAl3AKyPRVzgc8oezQbPQ5n/Ro57XfCZi9DhmIUhiQPvpPkJexL9UM/GmWFlUN/PrAG/4e8wBDsB3X6iZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\More Exercise Intro and Basic Syntax\\03. Gaming Store\\03. Gaming Store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

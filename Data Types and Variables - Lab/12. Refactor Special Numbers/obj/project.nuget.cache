@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3uyzjR11s8sr/NHYATTOb21X03pBn31g54hg5zcRIP9+TYii7Sn3cC1jKeSrmdq/8Fei1gNQLhI2xkkJy76ELw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Data Types and Variables - Lab\\12. Refactor Special Numbers\\12. Refactor Special Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

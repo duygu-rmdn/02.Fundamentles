@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Regular\Regular-Demo\bin\Debug\netcoreapp3.1\Regex-Demo.exe
+C:\Users\HP\source\repos\Regular\Regular-Demo\bin\Debug\netcoreapp3.1\Regex-Demo.deps.json
+C:\Users\HP\source\repos\Regular\Regular-Demo\bin\Debug\netcoreapp3.1\Regex-Demo.runtimeconfig.json
+C:\Users\HP\source\repos\Regular\Regular-Demo\bin\Debug\netcoreapp3.1\Regex-Demo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Regular\Regular-Demo\bin\Debug\netcoreapp3.1\Regex-Demo.dll
+C:\Users\HP\source\repos\Regular\Regular-Demo\bin\Debug\netcoreapp3.1\Regex-Demo.pdb
+C:\Users\HP\source\repos\Regular\Regular-Demo\obj\Debug\netcoreapp3.1\Regex-Demo.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Regular\Regular-Demo\obj\Debug\netcoreapp3.1\Regex-Demo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Regular\Regular-Demo\obj\Debug\netcoreapp3.1\Regex-Demo.AssemblyInfo.cs
+C:\Users\HP\source\repos\Regular\Regular-Demo\obj\Debug\netcoreapp3.1\Regex-Demo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Regular\Regular-Demo\obj\Debug\netcoreapp3.1\Regex-Demo.dll
+C:\Users\HP\source\repos\Regular\Regular-Demo\obj\Debug\netcoreapp3.1\Regex-Demo.pdb
+C:\Users\HP\source\repos\Regular\Regular-Demo\obj\Debug\netcoreapp3.1\Regex-Demo.genruntimeconfig.cache

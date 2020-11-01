@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\bin\Debug\netcoreapp3.1\23. P!rates.exe
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\bin\Debug\netcoreapp3.1\23. P!rates.deps.json
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\bin\Debug\netcoreapp3.1\23. P!rates.runtimeconfig.json
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\bin\Debug\netcoreapp3.1\23. P!rates.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\bin\Debug\netcoreapp3.1\23. P!rates.dll
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\bin\Debug\netcoreapp3.1\23. P!rates.pdb
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\obj\Debug\netcoreapp3.1\23. P!rates.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\obj\Debug\netcoreapp3.1\23. P!rates.AssemblyInfo.cs
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\obj\Debug\netcoreapp3.1\23. P!rates.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\obj\Debug\netcoreapp3.1\23. P!rates.dll
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\obj\Debug\netcoreapp3.1\23. P!rates.pdb
+C:\Users\HP\source\repos\ExamPreparation\23. P!rates\obj\Debug\netcoreapp3.1\23. P!rates.genruntimeconfig.cache

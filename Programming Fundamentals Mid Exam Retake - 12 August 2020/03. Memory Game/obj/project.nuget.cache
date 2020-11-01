@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNtW+PeOPwyK9XB3uEFeY00/bnUWaB2jI5H/fsM7vyj6OIoSZ8cG3dBhrJTBlBQ1NEnZfHlnrs8Kj15GQAfR5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Programming Fundamentals Mid Exam Retake - 12 August 2020\\03. Memory Game\\03. Memory Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

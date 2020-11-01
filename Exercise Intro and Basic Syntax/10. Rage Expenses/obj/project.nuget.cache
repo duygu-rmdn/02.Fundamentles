@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3CtLOCGjgVecB1p2CLKmxeLd7Fx1ezIiyComH74xZvjP+cOZ5q1zMjpDVc7RYoSd/MwxXmuK1ouhwGSSoqcEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Exercise Intro and Basic Syntax\\10. Rage Expenses\\10. Rage Expenses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

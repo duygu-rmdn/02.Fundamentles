@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0QGLxFxzfrm5QM3bbhtvnF6hkIFFlGTIxiYzvD+9+JKMFmjVe5lGojUwav2DP0C/8bZrc63v+YgwWy3HgKHnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Lists Lab\\01. Sum Adjacent Equal Numbers\\01. Sum Adjacent Equal Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

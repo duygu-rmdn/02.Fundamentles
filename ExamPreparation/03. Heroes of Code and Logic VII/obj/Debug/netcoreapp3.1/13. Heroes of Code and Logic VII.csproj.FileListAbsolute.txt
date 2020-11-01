@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.exe
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.deps.json
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.runtimeconfig.json
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.dll
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.pdb
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.AssemblyInfo.cs
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.dll
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.pdb
+C:\Users\HP\source\repos\ExamPreparation\03. Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\13. Heroes of Code and Logic VII.genruntimeconfig.cache

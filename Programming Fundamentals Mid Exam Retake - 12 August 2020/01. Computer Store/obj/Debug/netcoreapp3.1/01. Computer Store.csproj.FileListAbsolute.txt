@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.exe
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.deps.json
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.json
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\bin\Debug\netcoreapp3.1\01. Computer Store.pdb
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.AssemblyInfo.cs
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.dll
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.pdb
+C:\Users\HP\source\repos\Programming Fundamentals Mid Exam Retake - 12 August 2020\01. Computer Store\obj\Debug\netcoreapp3.1\01. Computer Store.genruntimeconfig.cache

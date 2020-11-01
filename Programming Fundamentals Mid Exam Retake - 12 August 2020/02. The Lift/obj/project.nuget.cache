@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p7eomWN8sDetRUpNUhwGTz3/oIbKPd8tsZJEPQvQ3MP3XYOXsz5r8tc0LK7MQ2eIyu3QFVHiABjXa8oYE8AJeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Programming Fundamentals Mid Exam Retake - 12 August 2020\\02. The Lift\\02. The Lift.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

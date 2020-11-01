@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\bin\Debug\netcoreapp3.1\01.SoftUni Reception.exe
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\bin\Debug\netcoreapp3.1\01.SoftUni Reception.deps.json
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\bin\Debug\netcoreapp3.1\01.SoftUni Reception.runtimeconfig.json
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\bin\Debug\netcoreapp3.1\01.SoftUni Reception.runtimeconfig.dev.json
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\bin\Debug\netcoreapp3.1\01.SoftUni Reception.dll
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\bin\Debug\netcoreapp3.1\01.SoftUni Reception.pdb
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\obj\Debug\netcoreapp3.1\01.SoftUni Reception.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\obj\Debug\netcoreapp3.1\01.SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\obj\Debug\netcoreapp3.1\01.SoftUni Reception.AssemblyInfo.cs
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\obj\Debug\netcoreapp3.1\01.SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\obj\Debug\netcoreapp3.1\01.SoftUni Reception.dll
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\obj\Debug\netcoreapp3.1\01.SoftUni Reception.pdb
+C:\Users\HP\source\repos\EXAM.5.7.2020\01.SoftUni Reception\obj\Debug\netcoreapp3.1\01.SoftUni Reception.genruntimeconfig.cache

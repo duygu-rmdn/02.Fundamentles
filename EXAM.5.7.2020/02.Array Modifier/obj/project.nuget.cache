@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eg3FcsMsuDm9J9bqJYxmjrvAZDqyF9aoNb0H37N2bUimjX5A5nCw0Nvz5dqzfI7AAJb68aqbXyhTmoxNvgzI7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\EXAM.5.7.2020\\02.Array Modifier\\02.Array Modifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb
+C:\Users\HP\source\repos\Exam-9.8.2020\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\bin\Debug\netcoreapp3.1\31. Warrior's Quest.exe
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\bin\Debug\netcoreapp3.1\31. Warrior's Quest.deps.json
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\bin\Debug\netcoreapp3.1\31. Warrior's Quest.runtimeconfig.json
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\bin\Debug\netcoreapp3.1\31. Warrior's Quest.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\bin\Debug\netcoreapp3.1\31. Warrior's Quest.dll
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\bin\Debug\netcoreapp3.1\31. Warrior's Quest.pdb
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\obj\Debug\netcoreapp3.1\31. Warrior's Quest.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\obj\Debug\netcoreapp3.1\31. Warrior's Quest.AssemblyInfo.cs
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\obj\Debug\netcoreapp3.1\31. Warrior's Quest.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\obj\Debug\netcoreapp3.1\31. Warrior's Quest.dll
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\obj\Debug\netcoreapp3.1\31. Warrior's Quest.pdb
+C:\Users\HP\source\repos\ExamPreparation\31. Warrior's Quest\obj\Debug\netcoreapp3.1\31. Warrior's Quest.genruntimeconfig.cache

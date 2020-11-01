@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/azRTEiBoCBdpCaL6EtUAGQUgJcmQ5xF2QqOnHA0NBkyRDn826Yy7yN6iGKf5CdxYhJFXv1kE1E8ycInKeFaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\List Exersise\\05. Bomb Numbers\\05. Bomb Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

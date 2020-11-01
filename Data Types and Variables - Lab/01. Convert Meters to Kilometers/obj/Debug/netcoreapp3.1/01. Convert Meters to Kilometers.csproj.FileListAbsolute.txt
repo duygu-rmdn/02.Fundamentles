@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.exe
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.deps.json
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.json
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfo.cs
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+C:\Users\HP\source\repos\Data Types and Variables - Lab\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.genruntimeconfig.cache

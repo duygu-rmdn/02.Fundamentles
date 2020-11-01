@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLRW07dKKbOSAxMQeNynQXfhrQYleeDQKkqLWoADghsYcJEeD5C/sIO8za0on+R5h6YRVQm6mpNFy5jm1XclfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Arrays - Lab\\08. Condense Array to Number\\08. Condense Array to Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

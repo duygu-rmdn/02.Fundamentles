@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LnDYOFRC/9Bp4HHKIROiS8zNnuz4FHPGAhwXn2vGqVay1LxAltobJP10HZcO1NIRe22tcQlQCmZ5VwH9KA6uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Data Types and Variables - Lab\\02. Pounds to Dollars\\02. Pounds to Dollars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

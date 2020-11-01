@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.exe
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.deps.json
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.json
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.runtimeconfig.dev.json
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.dll
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\bin\Debug\netcoreapp3.1\07. Append Arrays.pdb
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.AssemblyInfo.cs
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.dll
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.pdb
+C:\Users\HP\source\repos\List Exersise\07. Append Arrays\obj\Debug\netcoreapp3.1\07. Append Arrays.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dex9Sh55f/KZkHzb0nVLB4Ch1NywkrQafn/U8J7bAm7ikeCrQ6fTva2L/xrqJBW3q7CmI7iPhVpXuDf42tbhGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Lists Lab\\06. List Manipulation Basics\\06. List Manipulation Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

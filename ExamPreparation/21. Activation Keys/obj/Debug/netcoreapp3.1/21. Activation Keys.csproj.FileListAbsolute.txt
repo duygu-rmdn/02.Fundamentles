@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\bin\Debug\netcoreapp3.1\21. Activation Keys.exe
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\bin\Debug\netcoreapp3.1\21. Activation Keys.deps.json
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\bin\Debug\netcoreapp3.1\21. Activation Keys.runtimeconfig.json
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\bin\Debug\netcoreapp3.1\21. Activation Keys.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\bin\Debug\netcoreapp3.1\21. Activation Keys.dll
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\bin\Debug\netcoreapp3.1\21. Activation Keys.pdb
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\obj\Debug\netcoreapp3.1\21. Activation Keys.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\obj\Debug\netcoreapp3.1\21. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\obj\Debug\netcoreapp3.1\21. Activation Keys.AssemblyInfo.cs
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\obj\Debug\netcoreapp3.1\21. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\obj\Debug\netcoreapp3.1\21. Activation Keys.dll
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\obj\Debug\netcoreapp3.1\21. Activation Keys.pdb
+C:\Users\HP\source\repos\ExamPreparation\21. Activation Keys\obj\Debug\netcoreapp3.1\21. Activation Keys.genruntimeconfig.cache

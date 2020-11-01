@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\bin\Debug\netcoreapp3.1\22. Emoji Detector.exe
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\bin\Debug\netcoreapp3.1\22. Emoji Detector.deps.json
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\bin\Debug\netcoreapp3.1\22. Emoji Detector.runtimeconfig.json
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\bin\Debug\netcoreapp3.1\22. Emoji Detector.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\bin\Debug\netcoreapp3.1\22. Emoji Detector.dll
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\bin\Debug\netcoreapp3.1\22. Emoji Detector.pdb
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\obj\Debug\netcoreapp3.1\22. Emoji Detector.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\obj\Debug\netcoreapp3.1\22. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\obj\Debug\netcoreapp3.1\22. Emoji Detector.AssemblyInfo.cs
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\obj\Debug\netcoreapp3.1\22. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\obj\Debug\netcoreapp3.1\22. Emoji Detector.dll
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\obj\Debug\netcoreapp3.1\22. Emoji Detector.pdb
+C:\Users\HP\source\repos\ExamPreparation\22. Emoji Detector\obj\Debug\netcoreapp3.1\22. Emoji Detector.genruntimeconfig.cache
